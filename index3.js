@@ -17,9 +17,9 @@ const falsy4 = null;
 const falsy5 = NaN;
 
 if(!falsy1 && !falsy2) {
-    console.log('at least one is true')
+    console.log('at least bouth is false')
 } else {
-    console.log('only if bouth are false')
+    console.log('only if bouth are true')
 }
 
 console.log('after')
